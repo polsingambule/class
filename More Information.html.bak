@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>More Information</title>
+</head>
+<body bgcolor="E7830C">
+<u><h1>Java Master class:-</h1></u></b>
+
+<h2>Joboriented Course:-</h2></b>
+
+<h3>Programming Course:-</h3></b>
+<p>This course has all the concepts from basic to Advance and can add few things as per new requirement. Through this course our main aim is, to aware the basic industry level awareness. </p></b>
+
+<h3>Front End Technologies: 30 Days</h3>
+<p></b>
+	<ol>
+<li>HTML </li>
+<li>CSS</li>
+<li>Basic Programming concepts </li>
+<li>JavaScript </li>
+<li>jQuery </li>
+<li>what is API and how to use them.</li>
+<li>Ajax (with JavaScript and jQuery)</li>
+<li>Project</li>
+</ol>
+ </p></b>
+
+<h3>Backed Technologies:-</h3>
+<p></b>
+	<ol>
+<li>Basic Programming concepts</li> 
+<li>Core java</li>
+<li>Database basic concepts </li>
+<li>Web-app with database </li>
+<li>Basic server-side application creation</li>
+<li>Project </li>
+</ol>
+</p></b>
+
+<h3>Java Frameworks:-</h3></b>
+<p></b><ol>
+<li>Spring Boot</li>
+<li>API (what is API, how to create and use)</li>
+<li>Spring Boot with Microservices</li>
+<li>Spring Boot with Database connectivity (JPA)</li>
+<li>How to expose API’s</li>
+<li>How to consume third party API</li>
+<li>Etc. (here, I can add more lectures based on the need. And time)</li>
+</ol></p></b>
+
+<h3>Advance Concepts:-</h3></b>
+<p></b><ol>
+<li>Jenkins (how to setup and configure it)</li>
+<li>What is container and its uses using docker</li>
+<li>Cloud (AWS, Google, and AZURE basic)</li>
+</ol></p></b>
+
+<h3>Database Technologies:-</h3></b>
+<p></b><ol>
+<li>Mysql (RDBMS)
+<li>MongoDB (No-Sql Database)</li>
+<li>Redis (Cache Management)</li>
+</ol></p>
+
+<h3>Servers:-</h3></b>
+<p></b>
+Web Servers (Tomcat)</p></b>
+
+<h3>Project Deployment:-</h3></b>
+<p>In this section, I will teach how to deploy the application on Production server.
+In case of Mobile APP, only installation file creation. </p></b>
+
+
+<h3>Projects:-</h3></b>
+<p></b>
+<ol>
+<li>Website</li>
+<li>Website + webservice (This Project will be done from start to end)</li>
+</ol></p></b>
+</body>
+</html>
